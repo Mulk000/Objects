@@ -78,6 +78,12 @@ States: Empty, Brewing, Ready, Cleaning
 
 Behaviors: Brew coffee, Steam milk, Auto-clean
 
+17-Drone
+States: Grounded, In-flight, Returning Home
+
+Behaviors: Fly, Hover, Capture video, Auto-land
+
+
 
 
 
