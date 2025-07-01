@@ -73,6 +73,12 @@ States: direction, energy charge, alien signal strength
 
 Behaviors: pointToTarget, glow, translateAlienCode, levitate
 
+16-Coffee Machine
+States: Empty, Brewing, Ready, Cleaning
+
+Behaviors: Brew coffee, Steam milk, Auto-clean
+
+
 
 
 
