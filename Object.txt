@@ -8,13 +8,18 @@ States: ink level, paper count, status
 
 Behaviors: print,scan,copy, refillInk
 
-4-Door
+3-Door
 States: open-closed, locked-unlocked, color, material
 
 Behaviors: open, close, lock, unlock
 
-3- Light Bulb
+4-Light Bulb
 States: wattage,color temperature, on/off
 
 Behaviors: turnOn, turnOff, dim
+
+5-Car
+States: color, make, model,speed
+
+Behaviors: start,stop,accelerate, brake,refuel
 
