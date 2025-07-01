@@ -53,6 +53,10 @@ States: color mood, rain sensor
 
 Behaviors: open,close,repelRain,changeColorWithMood
 
+12- Refrigerator
+States: temperature, door status, brand, capacity
+
+
 
 
 
