@@ -63,6 +63,10 @@ States: warmth level, fabric mode, wind resistance
 
 Behaviors: adjustWarmth, hardenAgainstWind, changePattern
 
+14-Microwave Oven
+States: timer, power level, door status
+
+Behaviors: start, stop, openDoor, closeDoor, heatFood
 
 
 
