@@ -28,3 +28,8 @@ States: time, alarm setting, battery level
 
 Behaviors: tick, setAlarm, snooze, displayTime
 
+7-Credit Card
+States: card number, expiration date, balance, status
+
+Behaviors: swipe, enterPIN, blockCard
+
