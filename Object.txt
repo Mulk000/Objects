@@ -13,4 +13,8 @@ States: open-closed, locked-unlocked, color, material
 
 Behaviors: open, close, lock, unlock
 
+3- Light Bulb
+States: wattage,color temperature, on/off
+
+Behaviors: turnOn, turnOff, dim
 
