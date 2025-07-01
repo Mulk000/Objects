@@ -93,6 +93,12 @@ States: Full, Half, Empty
 
 Behaviors: Track water intake, Remind to drink, Glow on reminder
 
+20-Smartwatch
+States: Awake, Sleep Mode, Charging
+
+Behaviors: Track steps, Monitor heart rate, Notify calls/messages
+
+
 
 
 
