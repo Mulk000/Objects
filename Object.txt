@@ -56,6 +56,9 @@ Behaviors: open,close,repelRain,changeColorWithMood
 12- Refrigerator
 States: temperature, door status, brand, capacity
 
+Behaviors: cool, defrost, openDoor, closeDoor
+
+
 
 
 
