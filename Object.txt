@@ -2,3 +2,8 @@
 States: battery level, operating system,storage
 
 Behaviors: powerOn, powerOff, runProgram, sleep
+
+2- Printer
+States: ink level, paper count, status
+
+Behaviors: print,scan,copy, refillInk
