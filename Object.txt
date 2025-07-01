@@ -68,6 +68,12 @@ States: timer, power level, door status
 
 Behaviors: start, stop, openDoor, closeDoor, heatFood
 
+15-Alien Compass
+States: direction, energy charge, alien signal strength
+
+Behaviors: pointToTarget, glow, translateAlienCode, levitate
+
+
 
 
 
