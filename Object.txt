@@ -58,6 +58,12 @@ States: temperature, door status, brand, capacity
 
 Behaviors: cool, defrost, openDoor, closeDoor
 
+13- Smart Scarf
+States: warmth level, fabric mode, wind resistance
+
+Behaviors: adjustWarmth, hardenAgainstWind, changePattern
+
+
 
 
 
