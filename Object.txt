@@ -1,0 +1,4 @@
+1- Laptop
+States: battery level, operating system,storage
+
+Behaviors: powerOn, powerOff, runProgram, sleep
