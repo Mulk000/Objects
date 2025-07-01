@@ -7,3 +7,10 @@ Behaviors: powerOn, powerOff, runProgram, sleep
 States: ink level, paper count, status
 
 Behaviors: print,scan,copy, refillInk
+
+4-Door
+States: open-closed, locked-unlocked, color, material
+
+Behaviors: open, close, lock, unlock
+
+
