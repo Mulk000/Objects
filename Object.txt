@@ -83,6 +83,10 @@ States: Grounded, In-flight, Returning Home
 
 Behaviors: Fly, Hover, Capture video, Auto-land
 
+18-Fan
+States: Off, Low, Medium, High, Oscillating
+
+Behaviors: Rotate, Change speed, Auto-shutoff
 
 
 
