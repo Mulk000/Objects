@@ -88,6 +88,12 @@ States: Off, Low, Medium, High, Oscillating
 
 Behaviors: Rotate, Change speed, Auto-shutoff
 
+19-Water Bottle (Smart)
+States: Full, Half, Empty
+
+Behaviors: Track water intake, Remind to drink, Glow on reminder
+
+
 
 
 
