@@ -33,3 +33,8 @@ States: card number, expiration date, balance, status
 
 Behaviors: swipe, enterPIN, blockCard
 
+8-Bicycle
+States: gear, speed, brake type, tire pressure
+
+Behaviors: pedal, brake, changeGear
+
