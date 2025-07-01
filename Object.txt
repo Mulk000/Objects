@@ -43,4 +43,10 @@ States: brand, battery level, screen size
 
 Behaviors: makeCall,sendText, openApp, charge
 
+10- Elevator
+States: currentFloor, direction, capacity, doorStatus
+
+Behaviors: moveUp, moveDown, openDoors, closeDoors
+
+
 
