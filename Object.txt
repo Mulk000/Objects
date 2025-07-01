@@ -23,3 +23,8 @@ States: color, make, model,speed
 
 Behaviors: start,stop,accelerate, brake,refuel
 
+6-Clock
+States: time, alarm setting, battery level
+
+Behaviors: tick, setAlarm, snooze, displayTime
+
