@@ -38,3 +38,9 @@ States: gear, speed, brake type, tire pressure
 
 Behaviors: pedal, brake, changeGear
 
+9- Smartphone
+States: brand, battery level, screen size
+
+Behaviors: makeCall,sendText, openApp, charge
+
+
