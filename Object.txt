@@ -46,13 +46,70 @@ Behaviors: makeCall,sendText, openApp, charge
 10- Elevator
 States: currentFloor, direction, capacity, doorStatus
 
-Behaviors: moveUp, moveDown, openDoors, closeDoors\
+
+Behaviors: moveUp, moveDown, openDoors, closeDoors
+
+Behaviors: moveUp, moveDown, openDoors, closeDoors
+
 
 11-Magic Umbrella
 States: color mood, rain sensor
 
 Behaviors: open,close,repelRain,changeColorWithMood
 
+
+12- Refrigerator
+States: temperature, door status, brand, capacity
+
+Behaviors: cool, defrost, openDoor, closeDoor
+
+13- Smart Scarf
+States: warmth level, fabric mode, wind resistance
+
+Behaviors: adjustWarmth, hardenAgainstWind, changePattern
+
+14-Microwave Oven
+States: timer, power level, door status
+
+Behaviors: start, stop, openDoor, closeDoor, heatFood
+
+15-Alien Compass
+States: direction, energy charge, alien signal strength
+
+Behaviors: pointToTarget, glow, translateAlienCode, levitate
+
+16-Coffee Machine
+States: Empty, Brewing, Ready, Cleaning
+
+Behaviors: Brew coffee, Steam milk, Auto-clean
+
+17-Drone
+States: Grounded, In-flight, Returning Home
+
+Behaviors: Fly, Hover, Capture video, Auto-land
+
+18-Fan
+States: Off, Low, Medium, High, Oscillating
+
+Behaviors: Rotate, Change speed, Auto-shutoff
+
+19-Water Bottle (Smart)
+States: Full, Half, Empty
+
+Behaviors: Track water intake, Remind to drink, Glow on reminder
+
+20-Smartwatch
+States: Awake, Sleep Mode, Charging
+
+Behaviors: Track steps, Monitor heart rate, Notify calls/messages
+
+
+
+
+
+
+
+>>>>>>> 6ab4c3fefa19e50341e6756f2d6ab2e5bc31349e
 
 
 
