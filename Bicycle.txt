@@ -1,0 +1,16 @@
+8-Bicycle
+public class Bicycle {
+    int gear;
+    int speed;
+    String brakeType;
+    int tirePressure;
+
+    void pedal(){
+    speed+= 10;
+    System.out.println("Pedaling speed is :" + speed.");
+    }
+    void brake(){
+        speed-= 10;
+    System.out.print("Braking speed is :" + speed.");
+    }
+}
