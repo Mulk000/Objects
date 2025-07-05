@@ -1,0 +1,18 @@
+7-Credit Card
+public class CreditCard {
+    String cardNumber;
+    String status;
+    String expersion
+    date;
+
+    void swipe() {
+        System.out.println("Card swiped.");
+    }
+
+    void enterPIN() {
+        pin = 123;
+        System.out.println("correct pin.");
+       else
+        System.out.println("Wrong pin.");
+    }
+}
