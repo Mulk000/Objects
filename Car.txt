@@ -1,0 +1,17 @@
+5-Car
+class Car {
+    String make;
+    int speed ;
+
+    void start() {
+        System.out.println("Car started.");
+    }
+
+    void Stop() {
+        System.out.println("Car stopped");
+    }
+    void accelerate(){
+        speed = 50;
+        System.out.println("Accelerate speed is : + speed");
+    }
+}
