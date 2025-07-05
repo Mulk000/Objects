@@ -1,0 +1,17 @@
+
+public class Smartwatch {
+    String state;
+
+    void trackSteps() {
+        System.out.println("Tracking steps.");
+    }
+
+    void monitorHeartRate() {
+        System.out.println("Monitoring heart rate.");
+    }
+
+    void notifyCallsMessages() {
+        System.out.println("Notifying calls/messages.");
+    }
+}
+
