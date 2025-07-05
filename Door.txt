@@ -1,0 +1,28 @@
+3-Door
+public class Door {
+    boolean isOpen;
+    boolean isLocked;
+    String color;
+    String material;
+
+
+    void open() {
+        isopen = true;
+        System.out.println("Door opened");
+    }
+
+    void close() {
+        isclose = false;
+        System.out.println("Door is closed");
+    }
+
+    void lock() {
+        isLocked = true;
+        System.out.println("Door is locked");
+    }
+
+    void unlock() {
+        isunLocked = false;
+        System.out.println("Door is unlocked");
+    }
+}
