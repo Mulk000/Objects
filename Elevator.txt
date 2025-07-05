@@ -1,0 +1,16 @@
+
+class Elevator {
+    int currentFloor;
+    int capacity;
+    String doorStatus;
+
+    void openDoors() {
+        doorStatus = "Open";
+        System.out.println("Elevator doors opened.");
+    }
+
+    void closeDoor() {
+        doorStatus = "Closed";
+        System.out.println("Elevator doors closed.");
+    }
+}
