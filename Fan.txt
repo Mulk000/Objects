@@ -1,0 +1,20 @@
+
+public class Fan {
+    String speed;
+    boolean oscillating;
+
+    void turnOn() {
+        speed = "Low";
+        System.out.println("Fan turned on at low speed.");
+    }
+
+    void turnOff() {
+        speed = "Off";
+        System.out.println("Fan turned off.");
+    }
+
+    void rotate(){
+        System.out.println("Fan is rotating.");
+
+    }
+}
