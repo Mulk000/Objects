@@ -1,0 +1,14 @@
+
+class MagicUmbrella {
+    String mood;
+    boolean rainSensor;
+    String color;
+
+
+    void open() {
+        System.out.println("Umbrella opened.");
+    }
+
+    void close() {
+        System.out.println("Umbrella closed.");
+    }
