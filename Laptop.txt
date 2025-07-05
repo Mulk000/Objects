@@ -1,0 +1,19 @@
+1- Laptop
+public class Laptop {
+    int batteryLevel;
+    String operatingSystem;
+    int storage;
+
+    void powerOn() {
+
+        System.out.println("Laptop power is on");
+    }
+
+    void powerOff() {
+        System.out.println("Laptop power is off");
+    }
+
+    void sleep() {
+        System.out.println("Laptop is in sleep mode");
+    }
+}
