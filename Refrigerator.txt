@@ -1,0 +1,20 @@
+ 
+class Refrigerator {
+    int temperature;
+    String doorStatus;
+    String brand;
+
+    void defrost() {
+        System.out.println("Defrosting refrigerator.");
+    }
+
+    void openDoor() {
+        doorStatus = "Open";
+        System.out.println("Refrigerator door opened.");
+    }
+
+    void closeDoor() {
+        doorStatus = "Closed";
+        System.out.println("Refrigerator door closed.");
+    }
+}
