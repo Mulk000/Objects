@@ -1,0 +1,24 @@
+
+public class Smartphone {
+    String brand;
+    int batteryLevel;
+    double screenSize;
+
+    void makeCall() {
+        System.out.println("Making a call.");
+    }
+
+    void sendText() {
+        System.out.println("Sending a text message.");
+    }
+
+    void openApp() {
+        System.out.println("Opening app: " + appName);
+    }
+
+    void charge() {
+        batteryLevel = 100;
+        System.out.println("Battery is now full.");
+    }
+}
+
