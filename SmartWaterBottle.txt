@@ -1,0 +1,17 @@
+
+public class SmartWaterBottle{
+    String fillLevel;
+
+    void trackWaterIntake() {
+        System.out.println("Tracking water intake.");
+    }
+
+    void remindToDrink() {
+        System.out.println("Reminder: Time to drink water!");
+    }
+
+    void glowOnReminder() {
+        System.out.println("Bottle glowing to remind drinking.");
+    }
+
+}
