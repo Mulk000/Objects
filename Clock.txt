@@ -1,0 +1,18 @@
+6-Clock
+public class Clock {
+    int batteryLevel;
+    String time;
+
+    void tick() {
+        System.out.println("Clock ticking.");
+    }
+
+    void snooze() {
+        System.out.println("Alarm snoozed.");
+    }
+    void setalarm(){
+        time = 3am;
+        System.out.println("Alarm is set at: + time");
+    }
+}
+
