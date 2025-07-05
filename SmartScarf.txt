@@ -1,0 +1,15 @@
+
+class SmartScarf {
+    int warmthLevel;
+    String fabricMode;
+    boolean windResistance;
+
+    void hardenAgainstWind() {
+        System.out.println("Scarf hardened against wind.");
+    }
+
+    void changePattern() {
+        System.out.println("Scarf pattern changed.");
+    }
+}
+
