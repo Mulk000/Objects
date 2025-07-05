@@ -1,0 +1,13 @@
+
+public class CoffeeMachine {
+    String cleaning;
+    String empaty;
+
+    void steamMilk() {
+        System.out.println("Steaming milk.");
+    }
+
+    void autoClean() {
+        System.out.println("Auto-cleaning in progress.");
+    }
+}
