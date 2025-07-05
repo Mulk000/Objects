@@ -1,0 +1,20 @@
+4-Light Bulb
+public class LightBulb {
+    int wattage;
+    String colorTemperature;
+    boolean isOn;
+
+    void turnOn() {
+        isOn = true;
+        System.out.println("Light is on");
+    }
+
+    void turnOff() {
+        isOn = false;
+        System.out.println("Light is off");
+    }
+
+    void dim() {
+        System.out.println("Light is dimmed");
+    }
+}
