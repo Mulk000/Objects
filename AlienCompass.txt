@@ -1,0 +1,18 @@
+
+class AlienCompass {
+    String direction;
+    int energyCharge;
+    int alienSignalStrength;
+
+    void pointToTarget() {
+        System.out.println("Pointing to alien target.");
+    }
+
+    void glow() {
+        System.out.println("Compass glowing.");
+    }
+
+    void translateAlienCode() {
+        System.out.println("Translating alien code.");
+    }
+}
