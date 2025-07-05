@@ -1,0 +1,22 @@
+2- Printer
+public class Printer {
+    int inklevel;
+    String status;
+    int peapercount;
+
+    void print() {
+        System.out.println("Printing.");
+    }
+
+    void scan() {
+        System.out.println("scanning.");
+    }
+
+    void copy() {
+        System.out.println("copying");
+    }
+
+    void refillInk() {
+        System.out.println("Ink is refilled");
+    }
+}
