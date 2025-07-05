@@ -1,0 +1,15 @@
+
+class MicrowaveOven {
+    int timer;
+    int powerLevel;
+    String doorStatus;
+
+
+    void start() {
+        System.out.println("Microwave started.");
+    }
+
+    void stop() {
+        System.out.println("Microwave stopped.");
+    }
+}
